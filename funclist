@@ -1,0 +1,9 @@
+_Delay_xms: CODE, 291 0 24
+_ISR: CODE, 368 0 7
+_main: CODE, 156 0 104
+_GetADCValue: CODE, 338 0 21
+_GPIO_Init: CODE, 260 0 31
+_System_init: CODE, 359 0 9
+_LED_Contrl: CODE, 11 0 145
+_ADC_Init: CODE, 315 0 23
+Total: 364
